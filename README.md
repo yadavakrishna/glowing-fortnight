@@ -1,4 +1,4 @@
-# glowing-fortnight-bazel
+# glowing-fortnight
 A dropwizard project with maven - migrating to bazel - good for starters want to learn bazel and dropwizard
 
 * Start in  2 branches -
