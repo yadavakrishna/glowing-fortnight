@@ -4,3 +4,6 @@ A dropwizard project with maven - migrating to bazel - good for starters want to
 * Start in  2 branches -
 * maven branch - Maven DropWizard
 * bazel branch - Bazel DropWizard
+
+Let us create Something useful. 
+PRs are Welcome. 
