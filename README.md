@@ -6,4 +6,7 @@ A dropwizard project with maven - migrating to bazel - good for starters want to
 * bazel branch - Bazel DropWizard
 
 Let us create Something useful. 
-PRs are Welcome. 
+PRs are Welcome.
+
+* Code PRs to maven/bazel branches
+* Resources to main branch - Resources.md
