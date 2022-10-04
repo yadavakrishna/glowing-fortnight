@@ -10,8 +10,10 @@ public class MainApplication extends Application<BaseConfiguration> {
     }
 
     @Override
-    public void run(BaseConfiguration baseConfiguration, Environment environment) throws Exception {
+    public void run(BaseConfiguration baseConfiguration, Environment e) throws Exception {
         final int defaultSize = baseConfiguration.getDefaultSize();
+        e.jersey().register(new HealthCheckController(e.healthChecks()));
+
     }
 
     @Override
